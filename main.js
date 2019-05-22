@@ -1,6 +1,6 @@
 $('document').ready(function(){
 
-  var endDate = '2016-08-06';
+  var endDate = '2019-06-15';
   var days = $("#d");
   var hours = $("#h");
   var seconds = $("#s");
